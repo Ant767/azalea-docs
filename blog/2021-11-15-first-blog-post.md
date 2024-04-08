@@ -2,7 +2,7 @@
 title: Blog update
 slug: blog-update
 tags:
-  - yes
+  - updates
 authors:
   - image_url: https://github.com/Ant767.png
     url: https://github.com/Ant767
