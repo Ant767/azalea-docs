@@ -4,7 +4,7 @@ slug: blog-update
 tags:
   - yes
 authors:
-  - imageUrl: https://github.com/Ant767.png
+  - image_url: https://github.com/Ant767.png
     url: https://github.com/Ant767
     title: Azalea Owner
     name: TRASH

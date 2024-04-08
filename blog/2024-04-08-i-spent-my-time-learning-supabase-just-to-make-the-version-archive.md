@@ -7,7 +7,7 @@ authors:
   - name: TRASH
     title: Azalea Owner
     url: https://github.com/Ant767
-    imageUrl: https://github.com/Ant767.png
+    image_url: https://github.com/Ant767.png
 ---
 And I also made this to see how easy it is to upload images
 

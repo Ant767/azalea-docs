@@ -5,7 +5,7 @@ tags:
   - updates
 authors:
   - url: https://github.com/Ant767
-    imageUrl: /img/trash-can.png
+    image_url: /img/trash-can.png
     title: Azalea Owner
     name: TRASH
 ---
