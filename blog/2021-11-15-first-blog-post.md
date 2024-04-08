@@ -10,3 +10,7 @@ authors:
     name: TRASH
 ---
 I now have a content management system for blog posts!
+
+---
+
+I spent so long making this update you better fucking like it
