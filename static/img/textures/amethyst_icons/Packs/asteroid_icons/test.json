@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Packs/Asteroid/accessibility_glyph_color",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/accessibility_glyph_color"
+  },
+  {
+    "name": "Packs/Asteroid/anvil_icon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/anvil_icon"
+  },
+  {
+    "name": "Packs/Asteroid/bigg",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/bigg"
+  },
+  {
+    "name": "Packs/Asteroid/coin",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/coin"
+  },
+  {
+    "name": "Packs/Asteroid/creative_icon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/creative_icon"
+  },
+  {
+    "name": "Packs/Asteroid/creator_glyph_color",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/creator_glyph_color"
+  },
+  {
+    "name": "Packs/Asteroid/ErrorGlyph",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/ErrorGlyph"
+  },
+  {
+    "name": "Packs/Asteroid/Feedback",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/Feedback"
+  },
+  {
+    "name": "Packs/Asteroid/garbage",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/garbage"
+  },
+  {
+    "name": "Packs/Asteroid/hasItems",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/hasItems"
+  },
+  {
+    "name": "Packs/Asteroid/icon_recipe_item",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/icon_recipe_item"
+  },
+  {
+    "name": "Packs/Asteroid/jumbog",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/jumbog"
+  },
+  {
+    "name": "Packs/Asteroid/littleg",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/littleg"
+  },
+  {
+    "name": "Packs/Asteroid/magnifyingGlass",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/magnifyingGlass"
+  },
+  {
+    "name": "Packs/Asteroid/market",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/market"
+  },
+  {
+    "name": "Packs/Asteroid/mashup_PaintBrush",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mashup_PaintBrush"
+  },
+  {
+    "name": "Packs/Asteroid/mediumg",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mediumg"
+  },
+  {
+    "name": "Packs/Asteroid/minig",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/minig"
+  },
+  {
+    "name": "Packs/Asteroid/misventas",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/misventas"
+  },
+  {
+    "name": "Packs/Asteroid/noItems",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/noItems"
+  },
+  {
+    "name": "Packs/Asteroid/panda",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/panda"
+  },
+  {
+    "name": "Packs/Asteroid/profile_glyph_color",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/profile_glyph_color"
+  },
+  {
+    "name": "Packs/Asteroid/quick_craft",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/quick_craft"
+  },
+  {
+    "name": "Packs/Asteroid/random1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random1"
+  },
+  {
+    "name": "Packs/Asteroid/random10",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random10"
+  },
+  {
+    "name": "Packs/Asteroid/random11",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random11"
+  },
+  {
+    "name": "Packs/Asteroid/random12",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random12"
+  },
+  {
+    "name": "Packs/Asteroid/random13",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random13"
+  },
+  {
+    "name": "Packs/Asteroid/random14",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random14"
+  },
+  {
+    "name": "Packs/Asteroid/random15",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random15"
+  },
+  {
+    "name": "Packs/Asteroid/random16",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random16"
+  },
+  {
+    "name": "Packs/Asteroid/random17",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random17"
+  },
+  {
+    "name": "Packs/Asteroid/random18",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random18"
+  },
+  {
+    "name": "Packs/Asteroid/random19",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random19"
+  },
+  {
+    "name": "Packs/Asteroid/random2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random2"
+  },
+  {
+    "name": "Packs/Asteroid/random20",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random20"
+  },
+  {
+    "name": "Packs/Asteroid/random21",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random21"
+  },
+  {
+    "name": "Packs/Asteroid/random22",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random22"
+  },
+  {
+    "name": "Packs/Asteroid/random23",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random23"
+  },
+  {
+    "name": "Packs/Asteroid/random24",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random24"
+  },
+  {
+    "name": "Packs/Asteroid/random25",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random25"
+  },
+  {
+    "name": "Packs/Asteroid/random26",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random26"
+  },
+  {
+    "name": "Packs/Asteroid/random27",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random27"
+  },
+  {
+    "name": "Packs/Asteroid/random28",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random28"
+  },
+  {
+    "name": "Packs/Asteroid/random29",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random29"
+  },
+  {
+    "name": "Packs/Asteroid/random3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random3"
+  },
+  {
+    "name": "Packs/Asteroid/random30",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random30"
+  },
+  {
+    "name": "Packs/Asteroid/random31",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random31"
+  },
+  {
+    "name": "Packs/Asteroid/random32",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random32"
+  },
+  {
+    "name": "Packs/Asteroid/random33",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random33"
+  },
+  {
+    "name": "Packs/Asteroid/random34",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random34"
+  },
+  {
+    "name": "Packs/Asteroid/random35",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random35"
+  },
+  {
+    "name": "Packs/Asteroid/random36",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random36"
+  },
+  {
+    "name": "Packs/Asteroid/random37",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random37"
+  },
+  {
+    "name": "Packs/Asteroid/random38",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random38"
+  },
+  {
+    "name": "Packs/Asteroid/random39",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random39"
+  },
+  {
+    "name": "Packs/Asteroid/random4",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random4"
+  },
+  {
+    "name": "Packs/Asteroid/random40",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random40"
+  },
+  {
+    "name": "Packs/Asteroid/random5",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random5"
+  },
+  {
+    "name": "Packs/Asteroid/random6",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random6"
+  },
+  {
+    "name": "Packs/Asteroid/random7",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random7"
+  },
+  {
+    "name": "Packs/Asteroid/random8",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random8"
+  },
+  {
+    "name": "Packs/Asteroid/random9",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/random9"
+  },
+  {
+    "name": "Packs/Asteroid/recipe_book_icon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/recipe_book_icon"
+  },
+  {
+    "name": "Packs/Asteroid/servers",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/servers"
+  },
+  {
+    "name": "Packs/Asteroid/smithing_icon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/smithing_icon"
+  },
+  {
+    "name": "Packs/Asteroid/spyglass_flat",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/spyglass_flat"
+  },
+  {
+    "name": "Packs/Asteroid/storageIconColor",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/storageIconColor"
+  },
+  {
+    "name": "Packs/Asteroid/timer",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/timer"
+  },
+  {
+    "name": "Packs/Asteroid/vault",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/vault"
+  },
+  {
+    "name": "Packs/Asteroid/vender",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/vender"
+  },
+  {
+    "name": "Packs/Asteroid/win",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/win"
+  },
+  {
+    "name": "Packs/Asteroid/winPING",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/winPING"
+  }
+]
