@@ -1,13 +1,12 @@
 ---
-title: First Blog Post
-slug: first-blog-post
+title: Blog update
+slug: blog-update
 tags:
-  - foo
-  - bar
+  - yes
 authors:
-  - name: Garrison McMullen
-    title: Instruction Writer
-    url: https://github.com/garrison0
-    image_url: https://avatars.githubusercontent.com/u/4089393?v=4
+  - imageUrl: https://github.com/Ant767.png
+    url: https://github.com/Ant767
+    title: Azalea Owner
+    name: TRASH
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.
+I now have a content management system for blog posts!
