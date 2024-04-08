@@ -90,10 +90,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       announcementBar: {
-        id: 'azalea_docs_rework',
+        id: 'azalea_new_blog',
         content:
-          'Welcome to the new azalea documentation website! <a href="/blog/welcome-2024-03-27">View Blog Post</a>',
-        backgroundColor: '#33FF6C',
+          'Azalea has a new blog system! <a href="/blog">Check it out</a>',
+        backgroundColor: 'var(--primary-400)',
         textColor: '#000',
         isCloseable: true,
       },
