@@ -16,5 +16,7 @@ This means that each icon will have a new "icon name" field, and can be searchab
 Thanks to Rexy Cloudy for taking his time to make names for 3,800+ icons!
 
 **I might add a comment section to documentation btw**
+
 --- 
+
 Post by TRASH
