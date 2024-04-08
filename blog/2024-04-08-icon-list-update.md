@@ -1,5 +1,5 @@
 ---
-title: Icon List Update
+title: Icon List Update Coming Soon
 slug: icon-list-update
 tags:
   - icons
