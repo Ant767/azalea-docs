@@ -7,7 +7,7 @@ authors:
   - name: "Voltrex "
     title: "Azalea Blog Manager "
     image_url: /img/voltrex.png
-    url: google.com
+    url: https://google.com
 ---
 Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)
 
