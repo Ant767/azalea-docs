@@ -1,8 +1,8 @@
 ---
 title: New Formats
-slug: Azalea 2.2+
+slug: azalea-v2.2-format
 tags:
-  - Update
+  - v2.2
 authors:
   - name: "Voltrex "
     title: "Azalea Blog Manager "
@@ -13,7 +13,7 @@ Azalea has recently removed old sidebar and chat formats and has added a new sys
 
 New default chat rank formats:
 
-{{has_tag staffchat "<bc>[<nc>StaffChat<bc>] " "<bl>"}}§r<bc>[{{rank_joiner "<drj>"}}§r<bc>] §r<nc><name> §r<bc><dra> §r<mc><msg>
+`{{has_tag staffchat "<bc>[<nc>StaffChat<bc>] " "<bl>"}}§r<bc>[{{rank_joiner "<drj>"}}§r<bc>] §r<nc><name> §r<bc><dra> §r<mc><msg>`
 
 For the sidebar, the format is shown in the admin panel.
 
