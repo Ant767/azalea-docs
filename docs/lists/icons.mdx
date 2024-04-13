@@ -7,12 +7,17 @@ sidebar-position: 6
 This is a list of every single Icon ID.
 
 <div className="icosearchbar">
-<input className="icosearch" placeholder="Search for icon name" />
+<input
+    className="icosearch"
+    placeholder="Search for icon name" />
 <button className="icoenter" onClick={()=>{
    document.querySelectorAll('tbody > tr').forEach(tr=>{
     let text = tr.querySelectorAll('td')[1].innerText.replace(/ /g,"").replace(/_/g,"").toLowerCase();
-    if(text.includes(document.querySelector('.search').value)) tr.style.display = null;
-    else tr.style.display = "none";
+    if(text.includes(document.querySelector('.icosearch').value)) {
+        tr.style.display = null;
+    } else {
+        tr.style.display = "none";
+    }
    }) 
 }}>Enter</button>
 </div>
