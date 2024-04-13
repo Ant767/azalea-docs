@@ -13,7 +13,7 @@ This is a list of every single Icon ID.
 <button className="icoenter" onClick={()=>{
    document.querySelectorAll('tbody > tr').forEach(tr=>{
     let text = tr.querySelectorAll('td')[1].innerText.replace(/ /g,"").replace(/_/g,"").toLowerCase();
-    if(text.includes(document.querySelector('.icosearch').value)) {
+    if(text.includes(document.querySelector('.icosearch').value.replace(/ /g,"").replace(/_/g,"").toLowerCase())) {
         tr.style.display = null;
     } else {
         tr.style.display = "none";
