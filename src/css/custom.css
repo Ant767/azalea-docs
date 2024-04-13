@@ -144,3 +144,26 @@
   
 
 }
+
+.icosearch {
+  background: var(--background-800);
+  border: 1px solid var(--background-700);
+  padding: 0.5em 1em;
+  border-radius: 8px;
+}
+.icoenter {
+  background: var(--accent-800);
+  border: 1px solid var(--accent-700);
+  padding: 0.5em 1em;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  transition: all 350ms ease;
+}
+.icosearchbar {
+  display: flex;
+  gap: 10px;
+}
+.icoenter:hover {
+  background: var(--accent-700);
+}
