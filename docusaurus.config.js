@@ -69,14 +69,6 @@ const config = {
         },
         "docs": {
           sidebarPath: './sidebars.js',
-          'disableVersioning': true,
-          lastVersion: 'current',
-          versions: {
-            current: {
-              label: '2.2',
-              path: '2.2',
-            },
-          },
         }
       }),
     ],
