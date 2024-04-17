@@ -6,43 +6,47 @@ import DocCard from '@theme/DocCard';
 import ThemedImage from '@theme/ThemedImage'
 export default function MyReactPage() {
     let tags = {
-        public: "PUBLIC"
+        public: "PUBLIC",
+        closed: "CLOSED"
     }
     let featured = [
-        // {
-        //     "img": "https://cdn.discordapp.com/icons/1137801967016620114/32525e687cc49afec6b989099168a491.webp?size=96",
-        //     "owner": "Voltrex",
-        //     "name": "Dark Network",
-        //     "tag": tags.public,
-        //     "description": "We have a toxic community :3",
-        //     "link": "https://discord.gg/nbEawQ7crx"
-        // },
-        // {
-        //     "img": "https://cdn.discordapp.com/icons/1123842919254732910/888c8ba93a1b7cddefc24ca60d9d9314.webp",
-        //     "owner": "elaina_kawaii",
-        //     "name": "Re:Birth SMP",
-        //     "tag": tags.public,
-        //     "description": "Best realm fr",
-        //     "link": "https://discord.gg/gDqdRmUuzG"
-        // },
         {
-            "link": "https://discord.gg/xUMF5tJy",
-            "description": "azalea on top",
-            "name": "Faithless Network",
-            "owner": "whatdoyoumeanbro",
+            "banner": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/142781fe-9277-41c2-9e3f-ec0b253bd5d4/dg9ro0m-fb8954ef-108b-4636-bf9c-af1d493204c4.png/v1/fill/w_1200,h_666,q_70,strp/_free__furry_wallpaper__almost__6k__12__ai__by_notsuspiciouscat_dg9ro0m-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzEwIiwicGF0aCI6IlwvZlwvMTQyNzgxZmUtOTI3Ny00MWMyLTllM2YtZWMwYjI1M2JkNWQ0XC9kZzlybzBtLWZiODk1NGVmLTEwOGItNDYzNi1iZjljLWFmMWQ0OTMyMDRjNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7NpZGk-F-H0bBCDCKHQutBBzro39H6YTMcPRcpQtCzY",
+            "img": "https://cdn.discordapp.com/icons/1137801967016620114/32525e687cc49afec6b989099168a491.webp?size=96",
+            "owner": "Voltrex",
+            a: true,
+            "name": "Dark Network",
             "tag": tags.public,
-            "img": "https://cdn.discordapp.com/icons/1196921548435636386/5cefc149c9e53832655bd7515bee0363.webp?size=56",
-            "banner": "/img/IMG_2482.jpg"
+            "description": "We have a toxic community :3",
+            "link": "https://discord.gg/nbEawQ7crx"
         },
         {
-            "banner": "https://files.worldwildlife.org/wwfcmsprod/images/HERO_Chimpanzee_Uganda/hero_small/5ww9mfzphi_Medium_WW215321.jpg",
-            "img": "https://cdn.discordapp.com/icons/1222627580851785770/43eaca4cb06927f051a671956e819490.webp?size=56",
-            "owner": "tiredgamedev.",
-            "name": "Chimp tag",
-            "tag": tags.public,
-            "description": "Gorilla tag ripoff",
-            "link": "https://discord.gg/9Y8GJyfw"
-        }
+            "banner": "https://media.discordapp.net/attachments/1123842919904845886/1198497402085199912/IMG_0881.png?ex=662ddcaf&is=661b67af&hm=f4fe1813ffc4ae4ec9f991bd054bcee58021f66e5a81eb2b260cae92064702a4&=&format=webp&quality=lossless&width=550&height=254",
+            "img": "https://cdn.discordapp.com/icons/1123842919254732910/888c8ba93a1b7cddefc24ca60d9d9314.webp",
+            "owner": "elaina_kawaii",
+            "name": "Re:Birth SMP",
+            "tag": tags.closed,
+            "description": "Best realm fr",
+            "link": "https://discord.gg/gDqdRmUuzG"
+        },
+        // {
+        //     "link": "https://discord.gg/xUMF5tJy",
+        //     "description": "azalea on top",
+        //     "name": "Faithless Network",
+        //     "owner": "whatdoyoumeanbro",
+        //     "tag": tags.public,
+        //     "img": "https://cdn.discordapp.com/icons/1196921548435636386/5cefc149c9e53832655bd7515bee0363.webp?size=56",
+        //     "banner": "/img/IMG_2482.jpg"
+        // },
+        // {
+        //     "banner": "https://files.worldwildlife.org/wwfcmsprod/images/HERO_Chimpanzee_Uganda/hero_small/5ww9mfzphi_Medium_WW215321.jpg",
+        //     "img": "https://cdn.discordapp.com/icons/1222627580851785770/43eaca4cb06927f051a671956e819490.webp?size=56",
+        //     "owner": "tiredgamedev.",
+        //     "name": "Chimp tag",
+        //     "tag": tags.public,
+        //     "description": "Gorilla tag ripoff",
+        //     "link": "https://discord.gg/9Y8GJyfw"
+        // }
     ]
     return (
         <Layout>
@@ -115,8 +119,9 @@ export default function MyReactPage() {
                                             padding: "0"
                                         }}>{server.name}</h1>
                                         <span className="tag-a" style={{
-                                            background: "var(--ifm-color-primary-tag)",
-                                            color: "var(--ifm-color-primary)",
+                                            background: "rgba(0,0,0,35%)",
+                                            color: "#fff",
+                                            backdropFilter: "blur(10px)",
                                             padding: ".12em .5em",
                                             borderRadius: "6px"
                                         }}>{server.tag}</span>

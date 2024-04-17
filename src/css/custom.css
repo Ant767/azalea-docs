@@ -18,6 +18,16 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+/* [data-theme='dark'] {
+  --ifm-color-primary: #a6ff80;
+  --ifm-color-primary-dark: #8bff5a;
+  --ifm-color-primary-darker: #7eff47;
+  --ifm-color-primary-darkest: #55ff0d;
+  --ifm-color-primary-light: #c1ffa6;
+  --ifm-color-primary-lighter: #ceffb9;
+  --ifm-color-primary-lightest: #f7fff3;
+  --ifm-background-color: #1c1c1c;
+} */
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 :root {
   --ifm-color-primary: var(--primary-400);
@@ -80,6 +90,7 @@
   --ifm-color-gray-700: var(--background-700) !important;
   --ifm-color-gray-800: var(--background-800) !important;
   --ifm-color-gray-900: var(--background-900) !important;
+  --background-900-t: #0d0d0d;
   --ifm-color-gray-1000: var(--ifm-color-black) !important;
   --text-50: #f0f6ef;
   --text-100: #e1edde;
@@ -172,4 +183,68 @@
 }
 .icoenter:hover {
   background: var(--accent-700);
+}
+.hero {
+  background: var(--background-900);
+  background-image: url(https://media.discordapp.net/attachments/1223412365358272702/1229602315665932369/New_Project18.png?ex=66304764&is=661dd264&hm=4db23aab34af190349b5da7ac93c65ac1cef7eab8eac5933213700930a488b6f&=&format=webp&quality=lossless&width=1309&height=671);
+  background-size: cover;
+  position: relative;
+  /* border-radius: 10px; */
+  /* margin: 10px; */
+  background-position: center;
+  color: white;
+}
+.hero h1,.hero p {
+  text-shadow: 1px 2px 5px rgba(0,0,0,100%) !important;
+}
+.hero::after {
+  background-image: linear-gradient(to bottom, transparent 20%, var(--background-950) 100%);
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 50%;
+  content: "";
+}
+.hero .container {
+  /* background: rgba(0,0,0,15%);
+  backdrop-filter: blur(4px);
+  width: 100%;
+  height: 100%;
+  max-width: unset;
+  max-height: unset;
+  margin: 0;
+  padding: 0; */
+}
+.hero .button {
+  background: rgba(75,75,75,40%);
+  color: #ffffff99;
+  backdrop-filter: blur(2px);
+  border: 1px solid rgba(135,135,135,60%);
+  transition: all 250ms ease;
+}
+.hero .button:hover {
+  border: 1px solid transparent;
+  background: rgba(135,135,135,60%);
+}
+.hero .button * {
+  color: #ffffff99 !important;
+}
+.hero > * {
+  z-index: 100;
+}
+.mobile-card-list {
+  justify-content: center;
+}
+.feature-card {
+  max-width: 300px;
+  width: 100%;
+}
+@media(max-width: 700px) {
+  .mobile-card-list {
+    flex-direction: column;
+  }
 }

@@ -27,7 +27,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'trashdev', // Usually your GitHub org/user name.
   projectName: 'azalea', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -38,31 +37,11 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  plugins: [
-    function (context, options) {
-      return {
-        name: 'docusaurus-plugin',
-        async loadContent() {
-          return 1 + Math.floor(Math.random() * 10);
-        },
-        async contentLoaded({content, actions}) {
-          console.log(content, actions);
-        }
-      };
-    }
-  ],
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
         blog: {
           feedOptions: {
             type: 'all',
@@ -82,21 +61,49 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        'sitemap': {
+          "filename": "sitemap.xml",
+          'changefreq': 'daily',
+          'lastmod': 'date',
+          'priority': 1
+        },
+        "docs": {
+          sidebarPath: './sidebars.js',
+          'disableVersioning': true,
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: '2.2',
+              path: '2.2',
+            },
+          },
+        }
       }),
     ],
   ],
-
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'community',
+        path: 'community',
+        routeBasePath: 'community',
+        sidebarPath: './sidebarsCommunity.js',
+        // ... other options
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      announcementBar: {
-        id: 'azalea_new_blog',
-        content:
-          'Azalea has a new blog system! <a href="/blog">Check it out</a>',
-        backgroundColor: 'var(--primary-400)',
-        textColor: '#000',
-        isCloseable: true,
-      },
+      // announcementBar: {
+      //   id: 'azalea_new_blog',
+      //   content:
+      //     'Azalea has a new blog system! <a href="/blog">Check it out</a>',
+      //   backgroundColor: 'var(--primary-400)',
+      //   textColor: '#000',
+      //   isCloseable: true,
+      // },
       colorMode: {
         "defaultMode": "dark",
         "respectPrefersColorScheme": false,
@@ -105,10 +112,11 @@ const config = {
       // Replace with your project's social card
       image: 'img/social.png',
       navbar: {
-        title: 'Azalea',
+        'style': 'dark',
+        title: 'Azalea Essentials',
         logo: {
           alt: 'My Site Logo',
-          src: 'https://media.discordapp.net/attachments/1186430125491896351/1222725759123324980/pack_icon.png?ex=6617431a&is=6604ce1a&hm=7e5f0e49e1b6199ee9894824abd9b30d392b0e1601f9ab9b1cbcf373a9283547&=&format=webp&quality=lossless&width=350&height=350',
+          src: 'https://media.discordapp.net/attachments/1171959696568103012/1230040199820607528/Potted_Flowering_Azalea_JE1_BE1.webp?ex=6631df34&is=661f6a34&hm=fe7a9237b927b98eadae2af810fac0a65a1018f52ce8692362d8fc7cc22b3899&=&format=webp',
         },
         items: [
           {
@@ -125,6 +133,11 @@ const config = {
           {
             label: 'Version Archive',
             to: '/version-archive',
+            position: 'left'
+          },
+          {
+            label: 'Community',
+            to: '/community/welcome',
             position: 'left'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
