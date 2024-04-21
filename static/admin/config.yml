@@ -31,3 +31,26 @@ collections:
         - { name: title, label: Title, widget: string } 
         - { name: url, label: URL, widget: string } 
         - { name: image_url, label: ImageURL, widget: string } 
+- name: addons
+  label: "addons"
+  folder: addons
+  identifier_field: title
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  fields:
+    - { name: title, label: Title, widget: string }
+    - { name: body, label: Body, widget: markdown }
+    - { name: slug, label: Slug, widget: string }
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+    - label: "Authors"
+      name: "authors" 
+      widget: "list"
+      fields:
+        - { name: name, label: Name, widget: string }
+        - { name: title, label: Title, widget: string } 
+        - { name: url, label: URL, widget: string } 
+        - { name: image_url, label: ImageURL, widget: string } 

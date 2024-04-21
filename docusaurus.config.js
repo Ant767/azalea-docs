@@ -51,7 +51,6 @@ const config = {
             language: undefined,
             
           },
-
           showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -82,6 +81,14 @@ const config = {
         routeBasePath: 'community',
         sidebarPath: './sidebarsCommunity.js',
         // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        'path': './addons',
+        'routeBasePath': 'addons',
+        'id': 'addons',
       },
     ],
   ],
@@ -128,9 +135,9 @@ const config = {
             position: 'left'
           },
           {
-            label: 'Community',
-            to: '/community/welcome',
-            position: 'left'
+            label: 'Addons',
+            to: '/addons',
+            position: 'right'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
