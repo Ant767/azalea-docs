@@ -1,19 +1,147 @@
 [
   {
+    "name": "Packs/Asteroid/ErrorGlyph",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/ErrorGlyph"
+  },
+  {
+    "name": "Packs/Asteroid/Feedback",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/Feedback"
+  },
+  {
     "name": "Packs/Asteroid/accessibility_glyph_color",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/accessibility_glyph_color"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_chest_common",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_chest_common"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_chest_epic",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_chest_epic"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_chest_legendary",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_chest_legendary"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_chest_rare",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_chest_rare"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_chest_uncommon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_chest_uncommon"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_crystal_common",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_crystal_common"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_crystal_epic",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_crystal_epic"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_crystal_legendary",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_crystal_legendary"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_crystal_rare",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_crystal_rare"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_crystal_uncommon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_crystal_uncommon"
+  },
+  {
+    "name": "Packs/Asteroid/adventure_menu_icon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/adventure_menu_icon"
   },
   {
     "name": "Packs/Asteroid/anvil_icon",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/anvil_icon"
   },
   {
+    "name": "Packs/Asteroid/baby_moolip",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/baby_moolip"
+  },
+  {
+    "name": "Packs/Asteroid/beacon",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/beacon"
+  },
+  {
+    "name": "Packs/Asteroid/bedrock",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/bedrock"
+  },
+  {
     "name": "Packs/Asteroid/bigg",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/bigg"
   },
   {
+    "name": "Packs/Asteroid/birch_leaves",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/birch_leaves"
+  },
+  {
+    "name": "Packs/Asteroid/birch_log",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/birch_log"
+  },
+  {
+    "name": "Packs/Asteroid/block",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/block"
+  },
+  {
+    "name": "Packs/Asteroid/blue_wool",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/blue_wool"
+  },
+  {
+    "name": "Packs/Asteroid/bricks",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/bricks"
+  },
+  {
+    "name": "Packs/Asteroid/bronzed_chicken",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/bronzed_chicken"
+  },
+  {
+    "name": "Packs/Asteroid/challenges",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/challenges"
+  },
+  {
+    "name": "Packs/Asteroid/change",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/change"
+  },
+  {
+    "name": "Packs/Asteroid/change2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/change2"
+  },
+  {
+    "name": "Packs/Asteroid/chest_tappable",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/chest_tappable"
+  },
+  {
+    "name": "Packs/Asteroid/cluckshroom",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/cluckshroom"
+  },
+  {
+    "name": "Packs/Asteroid/cobweb",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/cobweb"
+  },
+  {
+    "name": "Packs/Asteroid/cod",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/cod"
+  },
+  {
     "name": "Packs/Asteroid/coin",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/coin"
+  },
+  {
+    "name": "Packs/Asteroid/coins",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/coins"
+  },
+  {
+    "name": "Packs/Asteroid/crafting_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/crafting_boost_3"
+  },
+  {
+    "name": "Packs/Asteroid/cream_cow",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/cream_cow"
   },
   {
     "name": "Packs/Asteroid/creative_icon",
@@ -24,32 +152,200 @@
     "path": "textures/amethyst_icons/Packs/asteroid_icons/creator_glyph_color"
   },
   {
-    "name": "Packs/Asteroid/ErrorGlyph",
-    "path": "textures/amethyst_icons/Packs/asteroid_icons/ErrorGlyph"
+    "name": "Packs/Asteroid/custom",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/custom"
   },
   {
-    "name": "Packs/Asteroid/Feedback",
-    "path": "textures/amethyst_icons/Packs/asteroid_icons/Feedback"
+    "name": "Packs/Asteroid/cut",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/cut"
+  },
+  {
+    "name": "Packs/Asteroid/cyan_wool",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/cyan_wool"
+  },
+  {
+    "name": "Packs/Asteroid/defense_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/defense_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/defense_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/defense_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/defense_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/defense_boost_3"
+  },
+  {
+    "name": "Packs/Asteroid/desert_rabbit",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/desert_rabbit"
+  },
+  {
+    "name": "Packs/Asteroid/dev",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/dev"
+  },
+  {
+    "name": "Packs/Asteroid/diamond_axe",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/diamond_axe"
+  },
+  {
+    "name": "Packs/Asteroid/diamond_block",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/diamond_block"
+  },
+  {
+    "name": "Packs/Asteroid/fail",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/fail"
+  },
+  {
+    "name": "Packs/Asteroid/fancy_chicken",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/fancy_chicken"
+  },
+  {
+    "name": "Packs/Asteroid/feather",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/feather"
+  },
+  {
+    "name": "Packs/Asteroid/files",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/files"
+  },
+  {
+    "name": "Packs/Asteroid/food_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/food_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/food_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/food_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/food_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/food_boost_3"
   },
   {
     "name": "Packs/Asteroid/garbage",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/garbage"
   },
   {
+    "name": "Packs/Asteroid/global",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/global"
+  },
+  {
+    "name": "Packs/Asteroid/glow_squid",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/glow_squid"
+  },
+  {
+    "name": "Packs/Asteroid/glowstone",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/glowstone"
+  },
+  {
+    "name": "Packs/Asteroid/gold_block",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/gold_block"
+  },
+  {
+    "name": "Packs/Asteroid/gold_crested_chicken",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/gold_crested_chicken"
+  },
+  {
+    "name": "Packs/Asteroid/gold_ore",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/gold_ore"
+  },
+  {
+    "name": "Packs/Asteroid/granite_wall",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/granite_wall"
+  },
+  {
+    "name": "Packs/Asteroid/grass_block",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/grass_block"
+  },
+  {
+    "name": "Packs/Asteroid/gravel",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/gravel"
+  },
+  {
+    "name": "Packs/Asteroid/green_wool",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/green_wool"
+  },
+  {
     "name": "Packs/Asteroid/hasItems",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/hasItems"
+  },
+  {
+    "name": "Packs/Asteroid/health_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/health_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/health_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/health_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/health_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/health_boost_3"
+  },
+  {
+    "name": "Packs/Asteroid/heart_of_the_sea",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/heart_of_the_sea"
+  },
+  {
+    "name": "Packs/Asteroid/hoarding_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/hoarding_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/hoarding_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/hoarding_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/hoarding_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/hoarding_boost_3"
+  },
+  {
+    "name": "Packs/Asteroid/ice",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/ice"
   },
   {
     "name": "Packs/Asteroid/icon_recipe_item",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/icon_recipe_item"
   },
   {
+    "name": "Packs/Asteroid/journal_open",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/journal_open"
+  },
+  {
     "name": "Packs/Asteroid/jumbog",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/jumbog"
   },
   {
+    "name": "Packs/Asteroid/jungle_leaves",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/jungle_leaves"
+  },
+  {
+    "name": "Packs/Asteroid/keeper_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/keeper_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/keeper_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/keeper_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/keeper_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/keeper_boost_3"
+  },
+  {
+    "name": "Packs/Asteroid/leave",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/leave"
+  },
+  {
+    "name": "Packs/Asteroid/lime_teracotta",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/lime_teracotta"
+  },
+  {
     "name": "Packs/Asteroid/littleg",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/littleg"
+  },
+  {
+    "name": "Packs/Asteroid/lobber_zombie",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/lobber_zombie"
+  },
+  {
+    "name": "Packs/Asteroid/magenta_concrete",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/magenta_concrete"
   },
   {
     "name": "Packs/Asteroid/magnifyingGlass",
@@ -68,20 +364,96 @@
     "path": "textures/amethyst_icons/Packs/asteroid_icons/mediumg"
   },
   {
+    "name": "Packs/Asteroid/midnight_chicken",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/midnight_chicken"
+  },
+  {
     "name": "Packs/Asteroid/minig",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/minig"
+  },
+  {
+    "name": "Packs/Asteroid/mining_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mining_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/mining_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mining_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/mining_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mining_boost_3"
   },
   {
     "name": "Packs/Asteroid/misventas",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/misventas"
   },
   {
+    "name": "Packs/Asteroid/mob_xp_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mob_xp_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/mob_xp_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mob_xp_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/mob_xp_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mob_xp_boost_3"
+  },
+  {
+    "name": "Packs/Asteroid/moobloom",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/moobloom"
+  },
+  {
+    "name": "Packs/Asteroid/moolip",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/moolip"
+  },
+  {
+    "name": "Packs/Asteroid/muddy_pig",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/muddy_pig"
+  },
+  {
+    "name": "Packs/Asteroid/mycelium",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/mycelium"
+  },
+  {
+    "name": "Packs/Asteroid/nether_wart_block",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/nether_wart_block"
+  },
+  {
+    "name": "Packs/Asteroid/netherrack",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/netherrack"
+  },
+  {
     "name": "Packs/Asteroid/noItems",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/noItems"
   },
   {
+    "name": "Packs/Asteroid/note_block",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/note_block"
+  },
+  {
+    "name": "Packs/Asteroid/notsmelting",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/notsmelting"
+  },
+  {
+    "name": "Packs/Asteroid/observer",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/observer"
+  },
+  {
+    "name": "Packs/Asteroid/old_ruby",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/old_ruby"
+  },
+  {
     "name": "Packs/Asteroid/panda",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/panda"
+  },
+  {
+    "name": "Packs/Asteroid/polished_andesite",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/polished_andesite"
+  },
+  {
+    "name": "Packs/Asteroid/prismarine_bricks",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/prismarine_bricks"
   },
   {
     "name": "Packs/Asteroid/profile_glyph_color",
@@ -90,6 +462,22 @@
   {
     "name": "Packs/Asteroid/quick_craft",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/quick_craft"
+  },
+  {
+    "name": "Packs/Asteroid/quit",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/quit"
+  },
+  {
+    "name": "Packs/Asteroid/radius_boost_1",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/radius_boost_1"
+  },
+  {
+    "name": "Packs/Asteroid/radius_boost_2",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/radius_boost_2"
+  },
+  {
+    "name": "Packs/Asteroid/radius_boost_3",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/radius_boost_3"
   },
   {
     "name": "Packs/Asteroid/random1",
@@ -256,8 +644,36 @@
     "path": "textures/amethyst_icons/Packs/asteroid_icons/recipe_book_icon"
   },
   {
+    "name": "Packs/Asteroid/redstone",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/redstone"
+  },
+  {
+    "name": "Packs/Asteroid/redstone_lamp",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/redstone_lamp"
+  },
+  {
+    "name": "Packs/Asteroid/ruby",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/ruby"
+  },
+  {
     "name": "Packs/Asteroid/servers",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/servers"
+  },
+  {
+    "name": "Packs/Asteroid/skeleton",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/skeleton"
+  },
+  {
+    "name": "Packs/Asteroid/skeleton_wolf",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/skeleton_wolf"
+  },
+  {
+    "name": "Packs/Asteroid/slash",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/slash"
+  },
+  {
+    "name": "Packs/Asteroid/slime_block",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/slime_block"
   },
   {
     "name": "Packs/Asteroid/smithing_icon",
@@ -268,12 +684,44 @@
     "path": "textures/amethyst_icons/Packs/asteroid_icons/spyglass_flat"
   },
   {
+    "name": "Packs/Asteroid/stone_bricks",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/stone_bricks"
+  },
+  {
     "name": "Packs/Asteroid/storageIconColor",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/storageIconColor"
   },
   {
+    "name": "Packs/Asteroid/stripped_acacia_log",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/stripped_acacia_log"
+  },
+  {
+    "name": "Packs/Asteroid/stripped_birch_log",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/stripped_birch_log"
+  },
+  {
+    "name": "Packs/Asteroid/stripped_dark_oak_log",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/stripped_dark_oak_log"
+  },
+  {
+    "name": "Packs/Asteroid/stripped_jungle_log",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/stripped_jungle_log"
+  },
+  {
+    "name": "Packs/Asteroid/sweet_berries",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/sweet_berries"
+  },
+  {
     "name": "Packs/Asteroid/timer",
     "path": "textures/amethyst_icons/Packs/asteroid_icons/timer"
+  },
+  {
+    "name": "Packs/Asteroid/ui",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/ui"
+  },
+  {
+    "name": "Packs/Asteroid/ultra",
+    "path": "textures/amethyst_icons/Packs/asteroid_icons/ultra"
   },
   {
     "name": "Packs/Asteroid/vault",
