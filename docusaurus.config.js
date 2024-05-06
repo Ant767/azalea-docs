@@ -112,10 +112,10 @@ const config = {
       image: 'img/social.png',
       navbar: {
         'style': 'dark',
-        title: 'Azalea Essentials',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'https://media.discordapp.net/attachments/1171959696568103012/1230040199820607528/Potted_Flowering_Azalea_JE1_BE1.webp?ex=6631df34&is=661f6a34&hm=fe7a9237b927b98eadae2af810fac0a65a1018f52ce8692362d8fc7cc22b3899&=&format=webp',
+          src: 'https://media.discordapp.net/attachments/1223412365358272702/1237180106380673044/9dicksinmymouth.png?ex=663ab543&is=663963c3&hm=9cccc9253e9ac10e9eb20ddad622dc1069a26d6fad152f2f20a7d841c609701d&=&format=webp',
         },
         items: [
           {
