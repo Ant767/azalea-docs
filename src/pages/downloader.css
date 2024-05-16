@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+    .card {
+        padding: 10px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 6%);
+        border: 1px solid rgba(255, 255, 255, 15%);
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        box-shadow: 2px 5px 10px rgba(0, 0, 0, 10%);
+    }
+
+    .card .title img {
+        width: 42px;
+        height: 42px;
+        object-fit: cover;
+    }
+
+    .card * {
+        user-select: none;
+    }
+
+    .card {
+        cursor: pointer;
+    }
+
+    .card .title {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        color: #fff;
+        font-weight: bold;
+        font-family: "Open Sans";
+    }
+
+    .card .description {
+        color: rgba(255, 255, 255, 50%);
+        font-family: "Open Sans";
+    }
+
+    .card .description {
+        margin: 0;
+        padding: 0;
+        margin-left: 52px;
+    }
+    a {
+        text-decoration: none;
+        color: var(--ifm-color-primary);
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .cards {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
+        width: calc(100% - 25px);
+    }
+    .card-container {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: fit-content;
+    }
+    body {
+        margin: 0;
+    }
+    .centered-title {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        width: 100%;
+        color: white;
+        font-size: 32px;
+        font-family: "Open Sans";
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .cards .card {
+        width: 100%;
+        box-sizing: border-box;
+        /* height: fit-content; */
+        grid-row: span;
+    }
+    @media(min-width:1000px) {
+        .cards {
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+    }
+    @media(max-width:720px) {
+        .cards {
+            grid-template-columns: 1fr;
+        }
+        .cards .card {
+            height: fit-content;
+        }
+    }
+    .centered-btn {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .centered-btn button {
+        background: #4687ff;
+        color: black;
+        cursor: pointer;
+        border-radius: 5px;
+        border: 0;
+        padding: .5em 1em;
+        font-family: "Open Sans";
+        transition: all 250ms ease;
+    }
+    .centered-btn button:hover {
+        background: #6198ff;
+    }
+    .centered-btn button:active {
+        background: #2270ff;
+    }
+    .card {
+        transition: all 250ms ease;
+    }
+    .card[data-activated="true"] {
+        border: 1px solid var(--ifm-color-primary);
+        background: var(--ifm-color-primary-tag);
+    }

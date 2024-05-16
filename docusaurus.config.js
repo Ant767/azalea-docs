@@ -115,7 +115,7 @@ const config = {
         title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'https://media.discordapp.net/attachments/1223412365358272702/1237180106380673044/9dicksinmymouth.png?ex=663ab543&is=663963c3&hm=9cccc9253e9ac10e9eb20ddad622dc1069a26d6fad152f2f20a7d841c609701d&=&format=webp',
+          src: '/img/9dicksinmymouth.png',
         },
         items: [
           {
@@ -124,21 +124,21 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
+          // {
+          //   label: 'Partnered Servers',
+          //   to: '/partnered',
+          //   position: 'left'
+          // },
           {
-            label: 'Partnered Servers',
-            to: '/partnered',
+            label: 'Custom Downloads',
+            to: '/downloader',
             position: 'left'
           },
-          {
-            label: 'Version Archive',
-            to: '/version-archive',
-            position: 'left'
-          },
-          {
-            label: 'Addons',
-            to: '/addons',
-            position: 'right'
-          },
+          // {
+          //   label: 'Addons',
+          //   to: '/addons',
+          //   position: 'right'
+          // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Ant767/Azalea',

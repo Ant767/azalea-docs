@@ -186,7 +186,7 @@
 }
 .hero {
   background: var(--background-900);
-  background-image: url(https://media.discordapp.net/attachments/1223412365358272702/1229602315665932369/New_Project18.png?ex=663a2aa4&is=6638d924&hm=5a7d29f4055df1d02528b93bf992ac1ea27599b79c0093e12c9e3160dae06778&=&format=webp);
+  background-image: url(/img/bg.png);
   background-size: cover;
   position: relative;
   /* border-radius: 10px; */
